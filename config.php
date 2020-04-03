@@ -11,16 +11,16 @@
  */
 
 /** MySQL hostname */
-define("DB_HOST", 'sql205.unaux.com');
+define("DB_HOST", 'localhost');
 
 /** MySQL database username */
-define("DB_USER", 'unaux_24104759');
+define("DB_USER", 'root');
 
 /** MySQL database password */
-define("DB_PASS", 'sqfi8csopb0');
+define("DB_PASS", 'jhdf');
 
 /** MySQL database name */
-define("DB_NAME", 'unaux_24104759_test');
+define("DB_NAME", 't_getfilm');
 
 /** PHP Error Reporting */
 define("DEBUG", false);
